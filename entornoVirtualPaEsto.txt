@@ -1,0 +1,3 @@
+.\myoseFotos\Scripts\activate 
+
+con eso activo el entorno virtual
